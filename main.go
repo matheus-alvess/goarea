@@ -1,4 +1,4 @@
-package area // por padrão o nome do pacote é o mesmo nome da pasta em que esta
+package goarea // por padrão o nome do pacote é o mesmo nome da pasta em que esta
 // contido
 import "math"
 
